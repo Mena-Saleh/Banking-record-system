@@ -1,0 +1,7 @@
+﻿  Banking Record System.cpp
+D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Banking Record System.cpp(95,16): warning C4305: '=': truncation from 'int' to 'char'
+D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Banking Record System.cpp(95,12): warning C4309: '=': truncation of constant value
+D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Banking Record System.cpp(125,15): warning C4305: 'initializing': truncation from 'int' to 'char'
+D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Banking Record System.cpp(125,11): warning C4309: 'initializing': truncation of constant value
+D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Banking Record System.cpp(364): warning C4715: 'confirm': not all control paths return a value
+  Banking Record System.vcxproj -> D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Debug\Banking Record System.exe

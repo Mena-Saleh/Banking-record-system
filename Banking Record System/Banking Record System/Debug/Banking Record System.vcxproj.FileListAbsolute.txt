@@ -1,0 +1,2 @@
+D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Debug\Banking Record System.exe
+D:\Education\Codes and projects\c++\Banking Record System\Banking Record System\Debug\Banking Record System.pdb
